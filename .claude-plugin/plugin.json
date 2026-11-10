@@ -1,0 +1,7 @@
+{
+  "name": "save-then-compact",
+  "version": "0.2.0",
+  "description": "Saves the session's handover notes before compacting: a manual /compact (or a size threshold) first asks Claude to write its handover, and compacts only once the save is confirmed.",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

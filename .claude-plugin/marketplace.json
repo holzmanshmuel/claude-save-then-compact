@@ -1,0 +1,5 @@
+{
+  "name": "save-then-compact",
+  "owner": { "name": "Shmuel Holzman" },
+  "plugins": [{ "name": "save-then-compact", "source": "./" }]
+}
